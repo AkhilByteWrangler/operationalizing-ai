@@ -63,7 +63,7 @@ This project democratizes access to generative AI by removing dependency on comm
 
 ---
 
-## 📅 Text Generation Service with Guardrails
+## Week 4: Text Generation Service with Guardrails
 
 - 🎥 [Demo Video](https://youtu.be/mmtzuo0tams)
 - 💻 [Source Code](https://github.com/AkhilByteWrangler/operationalizing-ai/tree/main/week_4)
