@@ -65,8 +65,8 @@ This project democratizes access to generative AI by removing dependency on comm
 
 ## Week 4: Text Generation Service with Guardrails
 
-- 🎥 [Demo Video](https://youtu.be/mmtzuo0tams)
-- 💻 [Source Code](https://github.com/AkhilByteWrangler/operationalizing-ai/tree/main/week_4)
+- [Demo Video](https://youtu.be/mmtzuo0tams)
+- [Source Code](https://github.com/AkhilByteWrangler/operationalizing-ai/tree/main/week_4)
 
 **Overview:**  
 A secure and production-ready text generation API using Amazon Bedrock (Claude 3.5 Haiku) and FastAPI. This project highlights responsible AI practices through prompt filtering, guardrail integration, and usage logging.
